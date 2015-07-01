@@ -1,1 +1,5 @@
-# Projeto Final
+## Projeto Final (Fundamentos de Visão Computacional)
+
+Alunos: (Gustavo Quirino, Glesio Paiva)
+
+Para maiores informações acessar a [https://github.com/glesio/visaocomputacional/wiki](Wiki) [https://github.com/glesio/visaocomputacional/wiki](https://github.com/glesio/visaocomputacional/wiki)
